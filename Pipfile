@@ -9,6 +9,9 @@ numpy = ">=1.21.1,<2.0"
 panel = "<1.0,>=0.12.6"
 ipython = "*"
 openai = "*"
+transformers = "*"
+torch = "*"
+matplotlib = "*"
 
 [dev-packages]
 
